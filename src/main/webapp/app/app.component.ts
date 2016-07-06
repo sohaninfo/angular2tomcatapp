@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
-import {UIROUTER_DIRECTIVES} from "ui-router-ng2";
+//import {UIROUTER_DIRECTIVES} from "ui-router-ng2";
 
 @Component({
-  directives: [UIROUTER_DIRECTIVES],
+  //directives: [UIROUTER_DIRECTIVES],
   selector: 'my-app',
   templateUrl: 'app/home.html'
 })
